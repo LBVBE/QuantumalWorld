@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="QuantumalWorld"
+run/main_scene="uid://buqq13f5amrdd"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
